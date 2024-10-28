@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: Automatic_Feature_Engineering
+Version: 0.3.0
+Summary: A package for automated feature engineering with support for categorical and numerical data
+Home-page: https://github.com/sagarsambhwani/AutoFeatureEngineering
+Author: Sagar Sambhwani
+Author-email: sagar.2001.a20@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: License
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: category_encoders
+Requires-Dist: numpy
+Requires-Dist: tsfresh
+
+# Auto Feature Engineering
+
+<!-- AutoML Feature Engineering Package -->
+### This package automates the feature engineering process, helping data scientists efficiently prepare datasets by detecting, transforming,    and selecting relevant features.
+
+# Features
+ 1. Automatic Column Detection
+ 2. Feature Engineering Techniques
+ 3. Feature Ranking & Selection
+ 4. Irrelevant Feature Removal
+
+# Usage Example
+### This package makes feature engineering seamless by automating multiple steps, allowing data scientists to focus more on model building and analysis.
+
+## Installation
+```bash
+pip install Automatic_Feature_Engineering

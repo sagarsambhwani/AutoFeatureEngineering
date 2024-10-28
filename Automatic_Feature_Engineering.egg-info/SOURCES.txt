@@ -1,0 +1,11 @@
+License
+README.md
+pyproject.toml
+setup.py
+Automatic_Feature_Engineering/__init__.py
+Automatic_Feature_Engineering/featureEngineering.py
+Automatic_Feature_Engineering.egg-info/PKG-INFO
+Automatic_Feature_Engineering.egg-info/SOURCES.txt
+Automatic_Feature_Engineering.egg-info/dependency_links.txt
+Automatic_Feature_Engineering.egg-info/requires.txt
+Automatic_Feature_Engineering.egg-info/top_level.txt
